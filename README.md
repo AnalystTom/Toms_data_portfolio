@@ -13,8 +13,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🚗 [OFGEM - Ticketing Dashboards]() | February 2023 | SQL, PowerBI | Developed and implemented an ETL pipeline for processing Ticketing data from Ivanti. The pipeline encompassed querying data from an MS SQL Server, performing data transformation using SQL, applying fact and dimensional data modelling techniques and creating a dashboard in PoweBI. 
+
+| 🐶 [Search&Rescued - ]() | November 2023 |Excel, Python, Jupyter Notebook | Cleaned raw data in Excel. Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
 
 ***
 
@@ -22,7 +23,20 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [Ivanti Ticketing Data Analysis at OFGEM](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as an example of my work at OFGEM, where I pulled and tranformed data from a SQL server and visualised it in PowerBI. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
+| 💡 [Ivanti Ticketing SQL Queries at OFGEM](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data query and Data transformation | My SQL queries have 
+| 💡 [Ivanti Ticketing Data Analysis at OFGEM](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data query, Data transformation and Data analysis | Provided the billing manager with tools to make informed business decisions on the growing demand of various software licenses. 
+
+
+# EXCEL
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 💡 [Data Filtering of Azure Device Data at OFGEM](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data query, Data transformation, and Data analysis | Cut down time on weekly device cleanups by analyzing Azure's device exports using excel’s filtering capabilities. List of methods utilised: VLOOKUP, conditional filtering, macros. 
+| 💡 [Providing business competitive pricing for an Airbnb business](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data transformation, and Data analysis | Cut down time on weekly device cleanups by analyzing Azure's device exports using Excel’s filtering capabilities. List of methods utilised: VLOOKUP, conditional filtering, macros. 
+
+
+
+Provided insight in IT projects with PowerBI gap in knowledge by providing  Ivanti This repo showcases my work at OFGEM, where I pulled and transformed data from a SQL server and visualised it in PowerBI. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
 
 
 
