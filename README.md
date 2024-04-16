@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 https://github.com/RusskiBoyVlad/Customer_Segmentation_CS50_SQL | Schema Design, Populating Data, Writing Views, Indexes and popular queries such as top 5 products bought and list of users inactive for 1 week | Capstone project for the CS50 SQL course. The purpose is to allow the user to query data on customers, and their purchase behavior and perform basket analysis for an e-commerce website
+| 💡 https://github.com/RusskiBoyVlad/Customer_Segmentation_CS50_SQL | Schema Design, Populating Data, Writing Views, Indexes and popular queries such as top 5 products bought and list of users inactive for 1 week | Capstone project for the CS50 SQL course. Database for an E-commerce website. The purpose is to segment customer data based on behavioural or demographic segments, analyse purchase behaviour and perform basket analysis.
 
 # Power BI
 
