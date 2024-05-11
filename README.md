@@ -20,18 +20,19 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | 💡 https://github.com/RusskiBoyVlad/Customer_Segmentation_CS50_SQL | Schema Design, Populating Data, Writing Views, Indexes and popular queries such as top 5 products bought and list of users inactive for 1 week | Capstone project for the CS50 SQL course. Database for an E-commerce website. The purpose is to segment customer data based on behavioural or demographic segments, analyse purchase behaviour and perform basket analysis.
 
-| 💡 https://github.com/RusskiBoyVlad/Customer_Segmentation_CS50_SQL | HR Churn Analysis | Transforming a flat csv file into separate tables and loading it into Snowflake for further evidence |
+|  | HR Churn Analysis | Transforming a flat csv file into separate tables and loading it into Snowflake for further evidence |
 
-# Power BI
+# Power BI / Tabluea
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| https://github.com/RusskiBoyVlad/Customer-Segmentation-E-Commerce | Loaded csv files as tables into a SQL database, performed RFM segmentation using Python and visualised the data using Tableau | https://public.tableau.com/views/CustomerSegmentationDashboard_17138963306970/RFMDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link |
+| https://github.com/RusskiBoyVlad/Customer-Segmentation-E-Commerce | Loaded csv files as tables into a SQL database, performed RFM segmentation using Python and visualized the data using Tableau | https://public.tableau.com/views/CustomerSegmentationDashboard_17138963306970/RFMDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link |
 
-# EXCEL
+# Google Analytics
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| https://accelerationistdata.com/| Google Analytics Analysis - Meals on Wheels/Springfield School Volunteers | Providing the Marketing Managers with a Looker Dashboard of marketing channels, donation conversion rates, and volunteer sign-ups. Helping senior management to make strategic decisions on optimising Google Ads, Marketing emails and web layout|
 
 # Python
 
