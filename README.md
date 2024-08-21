@@ -8,11 +8,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Python](#python)
 
 
-# ETL
+# AI Applications
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 💡 link goes here | Using the Google Maps API to extract, transform, and load data into a Snowflake database. | Description goes here
+| Project Link | Area | Project Description | Hackathon name|
+|---|---|---| --- |
+| https://github.com/yatindma/AI-Warriors| AI app, streamlit, FastAPI, prompt engineering, RAG | App used to generate a range of questions for interviews | https://lablab.ai/event/falcon-hackathon |
+| https://github.com/yatindma/AI-Warriors| AI app, streamlit, FastAPI, prompt engineering, RAG | Managed the project to expanded on previous hackathon, to generate   | https://lablab.ai/event/next2-edge-runners |
+
+https://lablab.ai/event/ibm-watsonx-challenge
+
 
 # SQL
 
@@ -20,9 +24,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | 💡 https://github.com/RusskiBoyVlad/Customer_Segmentation_CS50_SQL | Schema Design, Populating Data, Writing Views, Indexes and popular queries such as top 5 products bought and list of users inactive for 1 week | Capstone project for the CS50 SQL course. Database for an E-commerce website. The purpose is to segment customer data based on behavioural or demographic segments, analyse purchase behaviour and perform basket analysis.
 
-|  | HR Churn Analysis | Transforming a flat csv file into separate tables and loading it into Snowflake for further evidence |
-
-# Power BI / Tabluea
+# Power BI / Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
@@ -34,8 +36,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | https://accelerationistdata.com/| Google Analytics Analysis - Meals on Wheels/Springfield School Volunteers | Providing the Marketing Managers with a Looker Dashboard of marketing channels, donation conversion rates, and volunteer sign-ups. Helping senior management to make strategic decisions on optimising Google Ads, Marketing emails and web layout|
 
-# Python
 
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
 
