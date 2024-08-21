@@ -13,7 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Hackathon name|
 |---|---|---| --- |
 | https://github.com/yatindma/AI-Warriors| AI app, streamlit, FastAPI, prompt engineering, RAG | App used to generate a range of questions for interviews | https://lablab.ai/event/falcon-hackathon |
-| https://github.com/yatindma/AI-Warriors| AI app, streamlit, FastAPI, prompt engineering, RAG | Managed the project to expanded on previous hackathon, to generate   | https://lablab.ai/event/next2-edge-runners |
+| https://github.com/yatindma/AI-Warriors| AI app, streamlit, FastAPI, prompt engineering, RAG | Managed the project to expanded on previous hackathon, to generate synthetic data and fine tune Llama 3 model to provide technical interview support. We then deployed it to edge devices | https://lablab.ai/event/next2-edge-runners |
 
 https://lablab.ai/event/ibm-watsonx-challenge
 
